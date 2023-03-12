@@ -1,4 +1,4 @@
-module jsoncomp
+module github.com/a-a-novikov/jsoncomp
 
 go 1.20
 
