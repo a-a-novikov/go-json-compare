@@ -7,6 +7,7 @@ Usage
 Compare files just as they are:
 
 ```go
+import "github.com/a-a-novikov/jsoncomp"
 
 c := jsoncomp.NewComparator(
     "expected.json",  // path of first file
